@@ -193,8 +193,8 @@
                                 <textInputTraits key="textInputTraits"/>
                                 <variation key="default">
                                     <mask key="constraints">
-                                        <exclude reference="bbR-7y-Oel"/>
                                         <exclude reference="8Kq-sv-dhe"/>
+                                        <exclude reference="bbR-7y-Oel"/>
                                     </mask>
                                 </variation>
                             </textField>
